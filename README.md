@@ -23,7 +23,7 @@ O sistema permite **cadastrar, consultar, atualizar e remover usuários**, utili
 
 O projeto utiliza uma **arquitetura de camadas simples**, separando responsabilidades:
 
-```text
+
 controller      → Camada de entrada (API REST)
 business        → Camada de regras de negócio (Service)
 infrastructure  → Persistência e acesso a dados
